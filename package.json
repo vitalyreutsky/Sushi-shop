@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitalyreutsky/Sushi-shop.git"
+    "url": "git+https://github.com/vitalyreutsky/sushi-shop.git"
   },
   "keywords": [],
   "author": "Vitaly Reutsky",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vitalyreutsky/Sushi-shop/issues"
+    "url": "https://github.com/vitalyreutsky/sushi-shop/issues"
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
